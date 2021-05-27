@@ -1,0 +1,14 @@
+**************************************
+Router Map:
+
+/ => trang recipe feed
+/userProfile => trang User profile
+/editProfile => trang Edit Profile
+
+RecipeFeed => click vào khung thông tin user => User Profile =>
+
+click "Edit Profile" => Edit Profile => click Save => quay về User Profile
+
+RecipeFeed => click Save => lưu vào my recipe => chuyển đến trang User Profile
+
+**************************************
